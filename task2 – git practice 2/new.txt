@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 1 change
+=======
+some changes
+>>>>>>> 7f28dc7 (some changes)
